@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>An</name>
+        <address>23 Street</address>
+        <dateOfBirth>12/01/2005</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Binh</name>
+        <address>25 Street</address>
+        <dateOfBirth>01/01/2005</dateOfBirth>
+    </student>
+</students>
